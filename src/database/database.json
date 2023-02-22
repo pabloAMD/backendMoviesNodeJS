@@ -1,0 +1,455 @@
+[
+    {
+        "Title": "Batman",
+        "Year": "1989",
+        "Released": "23 Jun 1989",
+        "Runtime": "126 min",
+        "Genre": "Action, Adventure",
+        "Director": "Tim Burton",
+        "Writer": "Bob Kane, Sam Hamm, Warren Skaaren",
+        "Actors": "Michael Keaton, Jack Nicholson, Kim Basinger",
+        "Plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+        "Language": "English, French, Spanish",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 1 Oscar. 10 wins & 26 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "73%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ]
+    },
+    {
+        "Title": "Superman",
+        "Year": "1978",
+        "Released": "15 Dec 1978",
+        "Runtime": "143 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Richard Donner",
+        "Writer": "Jerry Siegel, Joe Shuster, Mario Puzo",
+        "Actors": "Christopher Reeve, Margot Kidder, Gene Hackman",
+        "Plot": "An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.",
+        "Language": "English",
+        "Country": "United States, United Kingdom, Canada",
+        "Awards": "Nominated for 3 Oscars. 17 wins & 23 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "81/100"
+            }
+        ]
+    },
+    {
+        "Title": "Guardians of the Galaxy Vol. 2",
+        "Year": "2017",
+        "Released": "05 May 2017",
+        "Runtime": "136 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "James Gunn",
+        "Writer": "James Gunn, Dan Abnett, Andy Lanning",
+        "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista",
+        "Plot": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 15 wins & 60 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "85%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ]
+    },
+    {
+        "Title": "Hulk",
+        "Year": "2003",
+        "Released": "20 Jun 2003",
+        "Runtime": "138 min",
+        "Genre": "Action, Sci-Fi",
+        "Director": "Ang Lee",
+        "Writer": "Stan Lee, Jack Kirby, James Schamus",
+        "Actors": "Eric Bana, Jennifer Connelly, Sam Elliott",
+        "Plot": "Bruce is an ordinary Gamma expert who one day gets blasted with radiation and somehow survives. But in the process a monster was born. Now whenever he gets angry he grows bigger and stronger until he is no longer Bruce Banner. He becomes The Hulk",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "3 wins & 14 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzQwZDg1MGEtN2E5My00ZDJlLWI4MzItM2U2MjJhYzlkNmEzXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "62%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ]
+    },
+    {
+        "Title": "Superman",
+        "Year": "1978",
+        "Released": "15 Dec 1978",
+        "Runtime": "143 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Richard Donner",
+        "Writer": "Jerry Siegel, Joe Shuster, Mario Puzo",
+        "Actors": "Christopher Reeve, Margot Kidder, Gene Hackman",
+        "Plot": "Just before the destruction of the planet Krypton, scientist Jor-El sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan and Martha Kent, young Clark discovers the source of his superhuman powers and moves to Metropolis to fight evil. As Superman, he battles the villainous Lex Luthor, while, as novice reporter Clark Kent, he attempts to woo co-worker Lois Lane",
+        "Language": "English",
+        "Country": "United States, United Kingdom, Canada",
+        "Awards": "Nominated for 3 Oscars. 17 wins & 23 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzA0YWMwMTUtMTVhNC00NjRkLWE2ZTgtOWEzNjJhYzNiMTlkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "81/100"
+            }
+        ]
+    },
+    {
+        "Title": "Jeepers Creepers",
+        "Year": "2001",
+        "Released": "31 Aug 2001",
+        "Runtime": "90 min",
+        "Genre": "Horror, Mystery",
+        "Director": "Victor Salva",
+        "Writer": "Victor Salva",
+        "Actors": "Gina Philips, Justin Long, Jonathan Breck",
+        "Plot": "On their way back home during the spring break, Darry and Patricia Jenner witness a mysterious person dumping something down a tunnel. Deciding to discover what was dumped down there, Darry discovers a huge disturbing hideout full of modified bodies. Darry and Patricia set off to get help, unaware that the individual is now aware of who has been down the tunnel. Darry and Patricia soon realizes that their pursuer is not just a mysterious person, but something even more horrifying, who has more in store than they could possibly imagine.",
+        "Language": "English",
+        "Country": "United States, Germany",
+        "Awards": "5 wins & 7 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwNDU0NTE0OV5BMl5BanBnXkFtZTgwNzAzNzQyMTI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "46%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "49/100"
+            }
+        ]
+    },
+    {
+        "Title": "Camino",
+        "Year": "2008",
+        "Released": "17 Oct 2008",
+        "Runtime": "138 min",
+        "Genre": "Drama",
+        "Director": "Javier Fesser",
+        "Writer": "Javier Fesser",
+        "Actors": "Nerea Camacho, Carme Elias, Mariano Venancio",
+        "Plot": "Inspired by real events, it is an emotional adventure that revolves around Nerea Camacho, an eleven-year-old believing girl, who faces two facts that are completely new to her: falling in love and dying. The film begins at the time of his death and then go back five months before and tell the story from the beginning of her illness.",
+        "Language": "Spanish",
+        "Country": "Spain",
+        "Awards": "21 wins & 20 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ4OGY1NmQtN2YzNS00ZDQwLWFlMTYtYWZlNDlhZjRhMmFhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "50%"
+            }
+        ]
+    },
+    {
+        "Title": "Agua",
+        "Year": "2006",
+        "Released": "21 Sep 2006",
+        "Runtime": "89 min",
+        "Genre": "Drama",
+        "Director": "Verónica Chen",
+        "Writer": "Verónica Chen, Pablo Lago",
+        "Actors": "Rafael Ferro, Nicolás Mateo, Jimena Anganuzzi",
+        "Plot": "Thirty four year old Goyo, a former open water swimming champion, has been hiding out in the desert. Wrongly accused of doping in the Santa Fe-Coronda Marathon, a 57 kilometer river swim, he has abandoned his career and his dreams. Eight years later, Goyo returns to Santa Fe where the marathon will be held again to try to re-gain his title and clear his name. However, long buried emotions come back to haunt him. He meets Chino, a stubborn and disciplined pool swimmer, who tries hard to be selected for the national team, but fails. Identifying with Chino, Goyo asks him to be his guide on the boat that follows him during the marathon.",
+        "Language": "Spanish",
+        "Country": "Argentina, France",
+        "Awards": "6 wins & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDk2NTM5M15BMl5BanBnXkFtZTcwMzM1NTkzMQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.0/10"
+            }
+        ]
+    },
+    {
+        "Title": "Love",
+        "Year": "2015",
+       
+        "Released": "30 Oct 2015",
+        "Runtime": "135 min",
+        "Genre": "Drama, Romance",
+        "Director": "Gaspar Noé",
+        "Writer": "Gaspar Noé",
+        "Actors": "Aomi Muyock, Karl Glusman, Klara Kristin",
+        "Plot": "Murphy is an American cinema school student, living in Paris. He had a French girlfriend, called Electra, whom he dated for two years. One day, they met and had a no-strings-attached threesome with another woman, a young blonde Danish teenager named Omi, as a way to add some excitement to their love life. But later, he had sex with her behind Electra's back, as a result of which Omi became pregnant. This unplanned pregnancy ended the relationship between Murphy and Electra on a horrible note, and it forced Murphy to marry Omi. In one morning, Electra's mother, Nora, phones him to ask if he's heard from Electra, because she hasn't heard from her for three months, and given her daughter's suicidal tendencies. For the rest of this day, he recalls his past two years with Electra in a series of fragmented, nonlinear flashbacks; how they first met in Paris, their quick hookup, and their lives over the next two years which is filled with drug abuse, rough sex and tender moments.",
+        "Language": "English, French",
+        "Country": "France, Belgium",
+        "Awards": "2 wins & 1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGQxZTFlZDctZjcyMy00NzA1LWFkMDYtNzRmZTkwYTFhYTc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "40%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "51/100"
+            }
+        ]
+    },
+    {
+        "Title": "Hombre",
+        "Year": "1967",
+        "Released": "21 Mar 1967",
+        "Runtime": "111 min",
+        "Genre": "Western",
+        "Director": "Martin Ritt",
+        "Writer": "Irving Ravetch, Harriet Frank Jr., Elmore Leonard",
+        "Actors": "Paul Newman, Fredric March, Richard Boone",
+        "Plot": "John 'Hombre' Russell is a white man raised by the Apaches on an Indian reservation and later by a white man in town. As an adult he prefers to live on the reservation. He is informed that he has inherited a lodging-house in the town. He goes to the town and decides to trade the place for a herd. He has to go to another city. The only stagecoach is one being hired for a special trip paid by Faver and his wife Audra. As there are several seats others join the stagecoach making seven very different passengers in all. During the journey they are robbed. With the leadership of John Russell they escape with little water and the money that the bandits want. They are pursued by the bandits. As they try to evade the bandits they reveal their true nature in a life threatening situation.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "3 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTk1YjVlNzAtNTA2NC00YTM1LThjMzAtZDhhZWQ5NDM1NTVlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "80/100"
+            }
+        ]
+    },
+    {
+        "Title": "Los fantásticos viajes de los gnomos",
+        "Year": "1997",
+        "Released": "N/A",
+        "Runtime": "78 min",
+        "Genre": "Animation, Adventure, Family",
+        "Director": "Claudio Biern Boyd",
+        "Writer": "Rien Poortvliet, Wil Huygen, Rafael Soler",
+        "Actors": "Abraham Aguilar, Javier Franquelo, Marta García",
+        "Plot": "N/A",
+        "Language": "Spanish",
+        "Country": "Spain",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZTIwYmJmMWQtMDViZi00NmM0LWEyMTMtMmE4OGVkZTE1ZGVlXkEyXkFqcGdeQXVyMTY5MDE5NA@@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "7",
+        "imdbID": "tt5220120",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "Year": "2005",
+       
+        "Released": "09 Dec 2005",
+        "Runtime": "143 min",
+        "Genre": "Adventure, Family, Fantasy",
+        "Director": "Andrew Adamson",
+        "Writer": "Ann Peacock, Andrew Adamson, Christopher Markus",
+        "Actors": "Tilda Swinton, Georgie Henley, William Moseley",
+        "Plot": "Four children from the same family have to leave their town because of the bombings of WWII. A woman and a professor take the children to their house. While playing a game of hide-and-seek, the youngest member of the family, Lucy, finds a wardrobe to hide in. She travels back and back into the wardrobe and finds a place named Narnia. After going in twice, the four children go in together for the last time. They battle wolves, meet talking animals, encounter an evil white witch and meet a magnificent lion named Aslan. Will this be the end of their journey to Narnia or will they stay?",
+        "Language": "English, German, Brazilian Sign ",
+        "Country": "United Kingdom, United States",
+        "Awards": "Won 1 Oscar. 18 wins & 46 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "75%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
+            }
+        ]
+    },
+    {
+        "Title": "Harry Potter and the Deathly Hallows: Part 2",
+        "Year": "2011",
+        "Released": "15 Jul 2011",
+        "Runtime": "130 min",
+        "Genre": "Adventure, Family, Fantasy",
+        "Director": "David Yates",
+        "Writer": "Steve Kloves, J.K. Rowling",
+        "Actors": "Daniel Radcliffe, Emma Watson, Rupert Grint",
+        "Plot": "Harry (Daniel Radcliffe), Ron (Rupert Grint), and Hermione (Emma Watson) continue their quest of finding and destroying Voldemort's (Ralph Fiennes') three remaining Horcruxes, the magical items responsible for his immortality. But as the mystical Deathly Hallows are uncovered, and Voldemort finds out about their mission, the biggest battle begins, and life as they know it will never be the same again.",
+        "Language": "English, Latin",
+        "Country": "United Kingdom, United States",
+        "Awards": "Nominated for 3 Oscars. 47 wins & 94 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "96%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "85/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+     
+        "Released": "17 Dec 2003",
+        "Runtime": "201 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Peter Jackson",
+        "Writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
+        "Actors": "Elijah Wood, Viggo Mortensen, Ian McKellen",
+        "Plot": "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Frodo and Sam reach Mordor in their quest to destroy the One Ring, while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith.",
+        "Language": "English, Quenya, Old English, Sindarin",
+        "Country": "New Zealand, United States",
+        "Awards": "Won 11 Oscars. 213 wins & 124 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "94/100"
+            }
+        ]
+    },
+    {
+        "Title": "The Time Traveler's Wife",
+        "Year": "2009",
+        "Released": "14 Aug 2009",
+        "Runtime": "107 min",
+        "Genre": "Comedy, Drama, Fantasy",
+        "Director": "Robert Schwentke",
+        "Writer": "Bruce Joel Rubin, Audrey Niffenegger",
+        "Actors": "Eric Bana, Rachel McAdams, Ron Livingston",
+        "Plot": "When Henry DeTamble meets Clare Abshire in a Chicago library they both understand that he is a time traveler, but she knows much more about him as he has not yet been to the times and places where they have already met. He falls in love with her, as she has already with him, but his continuing unavoidable absences while time traveling - and then returning with increasing knowledge of their future - makes things ever more difficult for Clare.",
+        "Language": "English, German",
+        "Country": "United States",
+        "Awards": "1 win & 5 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWNlN2RmZDktNzllNC00NDVlLTllMzgtZGQ1YmRmZThmZjZmXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "38%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "47/100"
+            }
+        ]
+    },
+    {
+        "Title": "Scary Movie",
+        "Year": "2000",
+       
+        "Released": "07 Jul 2000",
+        "Runtime": "88 min",
+        "Genre": "Comedy",
+        "Director": "Keenen Ivory Wayans",
+        "Writer": "Shawn Wayans, Marlon Wayans, Buddy Johnson",
+        "Actors": "Anna Faris, Jon Abrahams, Marlon Wayans",
+        "Plot": "A group of teenagers including Cindy Campbell and Bobby Prinze, accidentally hit a man when driving, and dispose of the body, but now they are being stalked by a very recognisable masked killer. The victim count increases, whilst Cindy must survive the carnage that has she has seen in so many films before.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "7 wins & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "51%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "48/100"
+            }
+        ]
+    }
+]

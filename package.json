@@ -1,0 +1,27 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src / index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloAMD/backendMoviesNodeJS.git"
+  },
+  "author": "pabloAMD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloAMD/backendMoviesNodeJS/issues"
+  },
+  "homepage": "https://github.com/pabloAMD/backendMoviesNodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
