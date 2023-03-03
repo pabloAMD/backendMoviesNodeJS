@@ -17,6 +17,7 @@ app.use(express.json());
 
 //routes
 //app.use(require('./index'));
+
 app.use('/api/movies', require('./src/controller/serviceRest'));
 
 
